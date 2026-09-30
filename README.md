@@ -26,6 +26,25 @@ A decentralized Web3 cloud storage and image vault built on Ethereum and IPFS. U
 
 ---
 
+## 📸 Application Screenshots
+
+### 1. Main Dashboard & Hero Interface
+![DgDrive 3.0 Dashboard](screenshots/dgdrive-dashboard.png)
+
+### 2. MetaMask Connected to Local Hardhat Network (Chain 1337)
+![MetaMask Wallet Connection](screenshots/wallet-connected.png)
+
+### 3. Decentralized Vault Gallery & Drag-and-Drop Uploader
+![Vault Gallery](screenshots/vault-gallery.png)
+
+### 4. On-chain Access Control & Permissions Hub (Grant & Revoke)
+![Access Control Management](screenshots/access-management.png)
+
+### 5. Peer-to-Peer Shared Vault Explorer
+![Shared Vault Explorer](screenshots/shared-vault-search.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Smart Contract:** Solidity (`Upload.sol`), Hardhat, Ethers.js
